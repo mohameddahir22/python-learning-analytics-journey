@@ -1,5 +1,5 @@
-Country = "Somalia"
-Population = 20
+country = "Somalia"
+population = 20
 
 print("Population of ", Country, "is", Population, "Million")
 
