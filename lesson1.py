@@ -1,4 +1,6 @@
-name = "mohamed"
+Country = "Somalia"
+Population = 20
 
-print("Hello", name)
-print("I am learing Python")
+print("Population of ", Country, "is", Population, "Million")
+
+print("Population of " + Country + " is " + str(Population) + " Millions " )
